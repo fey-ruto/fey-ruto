@@ -4,13 +4,13 @@
 ---
 
 ## 👨🏾‍💻 About Me  
-- 🌍 Passionate about transforming complex data into **actionable insights** for smarter decisions in **finance, business, and international development**.  
-- 🤖 Exploring the intersection of **AI, analytics, finance, and sustainability**.  
-- 🚀 Entrepreneur & Founder:  
+- Passionate about transforming complex data into **actionable insights** for smarter decisions in **finance, business, and international development**.  
+- Exploring the intersection of **AI, analytics, finance, and sustainability**.  
+- Entrepreneur & Founder:  
    - **Ecomaze Solutions** → providing affordable, eco-friendly menstrual products with sustainable, tech-driven solutions.  
    - **Hustle Village** → empowering young entrepreneurs with an ecommerce platform to enable them operate with trust, credibility, and convenience.  
-- 🌱 Advocate for **climate action, social impact, and innovation**.  
-- 🎓 Proud **Jim Leech Fellow ’23**.  
+- Advocate for **climate action, social impact, and innovation**.  
+- Proud **Jim Leech Fellow ’23**.  
 
 ---
 
