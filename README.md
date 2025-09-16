@@ -1,5 +1,5 @@
 # Hi, I'm Faith Jepkogei Ruto 👋  
-📊 Data Analyst | 🌍 Finance & Social Impact | 🤖 AI & Sustainability Enthusiast | 🚀 Founder @EcomazeSolutions & @HustleVillage  
+📊 Data Analyst | 🌍 Finance & Social Impact | 🤖 AI & Sustainability Enthusiast | Founder @EcomazeSolutions & @HustleVillage  
 
 ---
 
