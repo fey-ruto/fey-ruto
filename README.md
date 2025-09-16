@@ -1,12 +1,12 @@
 # Hi, I'm Faith Jepkogei Ruto 👋  
-📊 Data Analyst | 🌍 Finance & Social Impact | 🤖 AI & Sustainability Enthusiast | Founder @EcomazeSolutions & @HustleVillage  
+📊 Data Analyst | 🌍 Finance & Social Impact | 🤖 AI & Sustainability Enthusiast | Co-founder @EcomazeSolutions & @HustleVillage  
 
 ---
 
 ## 👨🏾‍💻 About Me  
 - Passionate about transforming complex data into **actionable insights** for smarter decisions in **finance, business, and international development**.  
 - Exploring the intersection of **AI, analytics, finance, and sustainability**.  
-- Entrepreneur & Founder:  
+- Entrepreneur & Co-founder:  
    - **Ecomaze Solutions** → providing affordable, eco-friendly menstrual products with sustainable, tech-driven solutions.  
    - **Hustle Village** → empowering young entrepreneurs with an ecommerce platform to enable them operate with trust, credibility, and convenience.  
 - Advocate for **climate action, social impact, and innovation**.  
