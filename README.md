@@ -25,10 +25,9 @@
 ## 📌 Featured Projects  
 Here are some projects that showcase my skills and interests:  
 
-- 📈 [Financial Risk Analysis with Python](#) → Predictive modeling for financial decision-making.  
-- 📊 [NGO Data Dashboard (Power BI)](#) → Data visualization for social impact projects.  
-- 🌍 [Climate Change Trends: Data-Driven Insights](#) → Analysis of climate datasets to support sustainability goals.  
-  
+- 📈 [Maize Price Prediction (Python + Streamlit)](https://github.com/your-username/maize-price-prediction) → Applied machine learning regression models to predict maize prices, supporting food security and agricultural market decisions.  
+- 🏥 [ASHCARE: Healthcare Appointment Management System (Java)](https://github.com/your-username/ashcare-healthcare-system) → Designed a scheduling system to connect health workers, specialists, and students, improving accessibility and healthcare delivery.  
+- 🤖 [Boolean Function SOP/POS Calculator (Python)](https://github.com/your-username/boolean-sop-pos-calculator) → Built an educational tool that generates truth tables and Boolean expressions, bridging digital logic design with AI and learning.  
 ---
 
 ## 📊 GitHub Stats  
