@@ -1,5 +1,5 @@
 # Hi, I'm Faith Jepkogei Ruto 👋  
-📊 Data Analyst | 🌍 Finance & Social Impact | 🤖 AI & Sustainability Enthusiast | Co-founder @EcomazeSolutions & @HustleVillage  
+📊 Data Analyst | 🤖 AI & Fintech Enthusiast | Entrepreneur
 
 ---
 
@@ -7,7 +7,7 @@
 - Passionate about transforming complex data into **actionable insights** for smarter decisions in **finance, business, and international development**.  
 - Exploring the intersection of **AI, analytics, finance, and sustainability**.  
 - Entrepreneur & Co-founder:  
-   - **Ecomaze Solutions** → providing affordable, eco-friendly menstrual products with sustainable, tech-driven solutions.  
+   - **Ecomaze Solutions** → providing affordable, eco-friendly menstrual products using sustainable, tech-driven solutions.  
    - **Hustle Village** → empowering young entrepreneurs with an ecommerce platform to enable them operate with trust, credibility, and convenience.  
 - Advocate for **climate action, social impact, and innovation**.  
 - Proud **Jim Leech Fellow ’23**.  
@@ -15,10 +15,10 @@
 ---
 
 ## 🛠️ Skills & Tools  
-**Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, R  
+**Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, R , Java, HTML/CSS, Power Query
 **Data Visualization:** Power BI, Tableau, Excel  
 **Statistics & Analytics:** Regression, Hypothesis Testing, Predictive Modeling, Machine Learning  
-**Other Interests:** AI for Business, Sustainability Analytics, Financial Data Analysis  
+**Other Interests:** AI in Business, Sustainability Analytics, Financial Data Analysis  
 
 ---
 
@@ -39,9 +39,9 @@ Here are some projects that showcase my skills and interests:
 ## 🌐 Let’s Connect  
 - 💼 LinkedIn: www.linkedin.com/in/faithruto 
 - 🐦 Twitter/X: https://x.com/fey_jep?s=21  
-- 🌍 Portfolio: [Your Website/Portfolio](#)  
+- 🌍 Portfolio: faithruto.me
 - 📧 Email: faithruto180@gmail.com  
 
 ---
-✨ *“Using data and technology not just to inform, but to inspire change and create measurable impact.”*  
+✨ *“Driving impact through data, finance, and social innovation.”*  
 
