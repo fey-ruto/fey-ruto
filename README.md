@@ -25,9 +25,9 @@
 ## 📌 Featured Projects  
 Here are some projects that showcase my skills and interests:  
 
-- 📈 [Maize Price Prediction (Python + Streamlit)](https://github.com/fey-ruto/maize-prices-prediction) → Applied machine learning regression models to predict maize prices, supporting food security and agricultural market decisions.  
-- 🏥 [Ashcare Healthcare Appointment Management System (Java)](https://github.com/fey-ruto/appointment-scheduler) → Designed a scheduling system to connect health workers, specialists, and students, improving accessibility and healthcare delivery.  
-- 🤖 [Boolean Function SOP/POS Calculator (Python)](https://github.com/fey-ruto/boolean-SOP-POS-calculator) → Built an educational tool that generates truth tables and Boolean expressions, bridging digital logic design with AI and learning.  
+- 📈 [Maize Price Prediction (Python | Machine Learning)](https://github.com/fey-ruto/maize-prices-prediction) → Built a machine learning model in Python to predict maize prices using historical data, helping improve market planning and decision-making.
+- 🏥 [Ecoshop Sales Analysis (SQL | Power BI)](https://github.com/fey-ruto/eco_shop.git) → Built an e-commerce platform with an integrated admin dashboard using SQL and Power BI to analyze sales, track revenue, and monitor customer trends.
+- 🤖 [Casaconnect Recommendation System (Python | Artificial Intelligence)](https://github.com/fey-ruto/casaconnect.git) → Built an AI-powered recommendation system in a real estate platform to suggest properties based on buyer preferences and improve property matching.
 ---
 
 ## 📊 GitHub Stats  
