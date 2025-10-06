@@ -39,7 +39,7 @@ Here are some projects that showcase my skills and interests:
 ## 🌐 Let’s Connect  
 - 💼 LinkedIn: www.linkedin.com/in/faithruto 
 - 🐦 Twitter/X: https://x.com/fey_jep?s=21  
-- 🌍 Portfolio: faithruto.me(#)
+- 🌍 Portfolio: faithruto.me(https://faithruto.me)
 - 📧 Email: faithruto180@gmail.com  
 
 ---
