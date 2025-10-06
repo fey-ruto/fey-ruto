@@ -16,7 +16,6 @@
 
 ## 🛠️ Skills & Tools  
 **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, R , Java, HTML/CSS, Power Query
-
 **Data Visualization:** Power BI, Tableau, Excel  
 **Statistics & Analytics:** Regression, Hypothesis Testing, Predictive Modeling, Machine Learning  
 **Other Interests:** AI in Business, Sustainability Analytics, Financial Data Analysis  
