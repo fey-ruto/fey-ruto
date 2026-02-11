@@ -13,11 +13,12 @@ Current focus:
 - Projects with real-world and social impact
 ---
 
-## 🛠️ Skills & Tools  
-**Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, R , Java, HTML/CSS, Power Query                                          
+## 🛠️ Skills & Tools
+
+**Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, R, Java, HTML/CSS, Power Query  
 **Data Visualization:** Power BI, Tableau, Excel  
 **Statistics & Analytics:** Regression, Hypothesis Testing, Predictive Modeling, Machine Learning  
-**Applied Focus: AI-Augmented Analytics, Data-Driven Decision-Making, Digital Tools for Impact
+**Applied Focus:** AI-Augmented Analytics, Data-Driven Decision-Making, Digital Tools for Impact  
 ---
 
 ## 📌 Featured Projects  
