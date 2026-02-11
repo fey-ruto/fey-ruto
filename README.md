@@ -31,7 +31,7 @@ Here are some projects that showcase my skills and interests:
 
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=fey-ruto&show_icons=true&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fey-ruto&layout=compact&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fey-ruto&layout=compact&theme=radical)   
 ---
 
 ## 🌐 Let’s Connect  
