@@ -30,8 +30,8 @@ Here are some projects that showcase my skills and interests:
 ---
 
 ## 📊 GitHub Stats  
-![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=fey-ruto&show_icons=true&cache_seconds=1800)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fey-ruto&layout=compact&cache_seconds=1800)  
+![](https://github-readme-stats.hyochan.dev/api?username=fey-ruto&show_icons=true&cache_seconds=1800)  
+![](https://github-readme-stats.hyochan.dev/api/top-langs/?username=fey-ruto&layout=compact&cache_seconds=1800)   
 ---
 
 ## 🌐 Let’s Connect  
