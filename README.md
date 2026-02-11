@@ -30,8 +30,8 @@ Here are some projects that showcase my skills and interests:
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.hyochan.dev/api?username=fey-ruto&show_icons=true&cache_seconds=1800)  
-![](https://github-readme-stats.hyochan.dev/api/top-langs/?username=fey-ruto&layout=compact&cache_seconds=1800)   
+![](https://github-readme-stats.hyochan.dev/api?username=fey-ruto&show_icons=true)  
+![](https://github-readme-stats.hyochan.dev/api/top-langs/?username=fey-ruto&layout=compact)  
 ---
 
 ## 🌐 Let’s Connect  
