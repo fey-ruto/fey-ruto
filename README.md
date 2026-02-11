@@ -1,25 +1,23 @@
 # Hi, I'm Faith Jepkogei Ruto 👋  
-📊 Data Analyst | 🤖 AI & Fintech Enthusiast | Entrepreneur
+📊 AI-Augmented Data Analyst | 💡 Entrepreneur
 
 ---
 
 ## 👨🏾‍💻 About Me  
-- Passionate about transforming complex data into **actionable insights** for smarter decisions in **finance, business, and international development**.  
-- Exploring the intersection of **AI, analytics, finance, and sustainability**.  
-- Entrepreneur & Co-founder:  
-   - **Ecomaze Solutions** → providing affordable, eco-friendly menstrual products using sustainable, tech-driven solutions.  
-   - **Hustle Village** → empowering young entrepreneurs with an ecommerce platform to enable them operate with trust, credibility, and convenience.  
-- Advocate for **climate action, social impact, and innovation**.  
-- Proud **Jim Leech Fellow ’23**.  
+I build and share practical workflows that combine data analysis with AI tools to support decision-making, career growth, and impact-driven work.  
 
+Current focus:
+- Data analysis & visualization (Python, SQL, Power BI)
+- AI-augmented analytics workflows
+- Dashboards, reporting, and insight generation
+- Projects with real-world and social impact
 ---
 
 ## 🛠️ Skills & Tools  
 **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, R , Java, HTML/CSS, Power Query                                          
 **Data Visualization:** Power BI, Tableau, Excel  
 **Statistics & Analytics:** Regression, Hypothesis Testing, Predictive Modeling, Machine Learning  
-**Other Interests:** AI in Business, Sustainability Analytics, Financial Data Analysis  
-
+**Applied Focus:** AI-Augmented Analytics, Data-Driven Decision-Making, Digital Tools for Impact
 ---
 
 ## 📌 Featured Projects  
@@ -43,5 +41,5 @@ Here are some projects that showcase my skills and interests:
 - 📧 Email: faithruto180@gmail.com  
 
 ---
-✨ *“Driving impact through data, finance, and social innovation.”*  
+✨ *“Building Data & AI Solutions for Impact and Career Growth”*  
 
