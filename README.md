@@ -41,5 +41,5 @@ Here are some projects that showcase my skills and interests:
 - 📧 Email: faithruto180@gmail.com  
 
 ---
-✨ *“Building Data & AI Solutions for Impact and Career Growth”*  
+✨ *“Using Data and AI to solve real-world problems and create measurable impact.”*  
 
