@@ -1,5 +1,5 @@
 # Hi, I'm Faith Jepkogei Ruto 👋  
-📊 AI-Augmented Data Analyst | 💡 Entrepreneur
+Data Analyst | AI Consultant | Entrepreneur 
 
 ---
 
